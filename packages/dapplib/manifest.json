@@ -1,0 +1,19 @@
+{
+    "name": "LedgerIn",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "AMP",
+        "/category/asset_value_tracking/token/symbol": "AVMP",
+        "/category/asset_value_tracking/token/decimals": "4",
+        "/category/asset_value_tracking/token/supply": "100000000000",
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "folder",
+        "/category/collection/entity": true
+    }
+}
